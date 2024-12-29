@@ -1,0 +1,22 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "google-auth-library": "^9.14.1",
+    "mail-proton-api": "^1.1.0",
+    "nodemailer": "^6.9.15",
+    "protonmail-api": "^2.2.0",
+    "puppeteer": "^23.5.1",
+    "selenium-webdriver": "^4.25.0"
+  }
+}
